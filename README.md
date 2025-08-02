@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager App
 
 A modern, responsive task management application built with React.js and Tailwind CSS. This project demonstrates frontend development skills with a focus on user experience, performance, and clean code architecture.
@@ -157,3 +158,6 @@ Built with ❤️ by [Your Name]
 ---
 
 *This project was created to demonstrate modern frontend development skills including React.js, responsive design, state management, and user experience optimization.*
+=======
+# Task-Manager-App
+>>>>>>> 9a61c5939134004ce188a5a3bb7b884ae5e2357b
